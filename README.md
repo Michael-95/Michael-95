@@ -1,24 +1,34 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Nacereddine </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nacereddine!;" />
+</h1>
 
+<h3 align="center">I am a Junior QA</h3>
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a Junior QA specialized in:
-    Manual testing, APIs testing using postman and automation testing using cypress
+<br/>
 
-<br>
-<br>
 <div align="center">
+ 
+ 🔭 I’m currently working on **Wergonic Project**
+ 
+ 🌱 I’m currently learning **Automation Testing using Cypress**
 
+ 💬 Ask me about **Manual Testing, APIs Testing, Automation Testion using Cypress**
+ 
+ </div>
+ <div align="center"> 
+  <a href="mailto:badrinacereddine@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/nacereddine-badri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
-</p>    
-<br>
+
+ <hr/>
+
 <!-- Languages and Tools -->
-
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br>   
+<br>
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2><br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
@@ -57,26 +67,13 @@
 <br>
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-![Nacereddine GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nacereddine&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nacereddine&count_private=true&theme=algolia&border_radius=20)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nacereddine&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
-<!--  End Stats Cards -->
 
----
+<hr/>
+
