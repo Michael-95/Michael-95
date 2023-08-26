@@ -56,10 +56,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw096u3ueex-hdLDi0vj8x5-qdJRRkK9TabAGWbGnuwg&s"/> 
   </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp"/> 
   </a>
 </div>
