@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Wergonic Project**
+ 🔭 I’m currently working on **CAMIO Project**
  
  🌱 I’m currently learning **Automation Testing using Cypress**
 
